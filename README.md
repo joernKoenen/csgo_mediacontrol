@@ -4,7 +4,7 @@ It controls your media keys depending on your status in game. Plays when you're 
 
 ## Installation
 
-- Download the [Release.exe](https://github.com/Asirt/csgo_mediacontrol/releases/download/v1.0/csgo_mediacontrol-win.exe) and the [cfg-file for CS:GO](https://github.com/Asirt/csgo_mediacontrol/releases/download/v1.0/gamestate_integration_csgomedia.cfg)
+- Download the [Release.zip](https://github.com/Asirt/csgo_mediacontrol/releases/download/v1.0/csgo_mediacontrol.zip) and extract it into a new folder
 - Move the cfg-file to the cfg folder of your CS:GO installation (e.g. `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`)
 - Stop CS:GO if it was already running
 - Start the csgo_mediacontrol.exe and Counter Strike
