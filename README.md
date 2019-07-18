@@ -4,7 +4,7 @@ Controls your media keys depending on your status ingame. Plays when you're dead
 
 ## Installation
 
-- Download the [Release .exe](https://github.com/Asirt/csgo_mediacontrol/releases/download/v1.0/csgo_mediacontrol.exe) and the [cfg-file for CS:GO](https://github.com/Asirt/csgo_mediacontrol/releases/download/v1.0/gamestate_integration_csgomedia.cfg)
+- Download the [Release.exe](https://github.com/Asirt/csgo_mediacontrol/releases/download/v1.0/csgo_mediacontrol.exe) and the [cfg-file for CS:GO](https://github.com/Asirt/csgo_mediacontrol/releases/download/v1.0/gamestate_integration_csgomedia.cfg)
 - Move the cfg-file to the cfg folder of your CS:GO installation (e.g. `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`)
 - Stop CS:GO if it was already running
 - Start the csgo_mediacontrol.exe, Counter Strike and enjoy
