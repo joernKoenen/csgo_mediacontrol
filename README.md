@@ -13,7 +13,7 @@ It controls your media keys depending on your status in game. Plays when you're 
 ## Built With
 - [Node.js](https://nodejs.org/en/)
 - [RobotJs](https://robotjs.io/)
-- [nexe](https://github.com/nexe/nexe)
+- [pkg](https://github.com/zeit/pkg)
 
 ## Acknowledgments
 - [glenndehaan/csgo-gamestate-spotify](https://github.com/glenndehaan/csgo-gamestate-spotify) - for portions of the code and inspiration because the spotify web helper doesn't work anymore
