@@ -1,5 +1,5 @@
 # Counter-Strike: Global Offensive Media Control
-Ever complained because you couldn't hear steps but also wanted to enjoy your favorite music? No Problem anymore.
+Ever complained because you couldn't hear steps but also wanted to enjoy your favorite music? Not a problem anymore.
 It controls your media keys depending on your status in game. Plays when you're dead and stops again as soon as you're alive. Works with Spotify and every other Software that can be controlled via Media Keys.
 
 ![](https://raw.githubusercontent.com/Asirt/csgo_mediacontrol/master/cmd.png)
