@@ -1,0 +1,23 @@
+{
+  "name": "csgo_mediacontrol",
+  "version": "1.0.0",
+  "description": "Ever complained because you couldn't hear steps but also wanted to enjoy your favorite music? Not a problem anymore.\r It controls your media keys depending on your status in game. Plays when you're dead and stops again as soon as you're alive. Works with Spotify and every other Software that can be controlled via Media Keys.",
+  "main": "./src/csgo_mediacontrol.js",
+  "dependencies": {
+    "robotjs": "^0.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JKoenen2/csgo_mediacontrol.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JKoenen2/csgo_mediacontrol/issues"
+  },
+  "homepage": "https://github.com/JKoenen2/csgo_mediacontrol#readme"
+}
