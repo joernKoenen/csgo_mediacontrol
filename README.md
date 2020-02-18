@@ -11,7 +11,8 @@ It controls your media keys depending on your status in game. Plays when you're 
 - Stop CS:GO if it was already running
 - Start the csgo_mediacontrol.exe and Counter Strike
 - enjoy
-
+## Known Bugs
+- Sometimes makes you throw away your pistol after respawn
 ## Built With
 - [Node.js](https://nodejs.org/en/)
 - [RobotJs](https://robotjs.io/)
